@@ -121,6 +121,7 @@ span:hover {
 }
 
 .footer-link {
+    font-family: 'Montserrat', sans-serif;
     color: darkslategray;
 }
 .footer-link:hover {
@@ -129,4 +130,8 @@ span:hover {
 
 .contact-me {
     padding: 20px;
+}
+
+.copyright-desc {
+    font-family: 'Montserrat', sans-serif;
 }
